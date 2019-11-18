@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/yet another soundtrack - Track 02 (Castle Von Krumpen).ogg-ad860f535bf7516d1d1c1f69a305db60.oggstr"
+
+[deps]
+
+source_file="res://Assets/yet another soundtrack - Track 02 (Castle Von Krumpen).ogg"
+dest_files=[ "res://.import/yet another soundtrack - Track 02 (Castle Von Krumpen).ogg-ad860f535bf7516d1d1c1f69a305db60.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
